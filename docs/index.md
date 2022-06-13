@@ -22,7 +22,7 @@ Finalising my M3R report
 
 # Tuesday:
 Submitting my M3R report
-2pm: [Voting starts!](https://vote.union.ic.ac.uk/elections.php)
+2pm: Voting starts!
 
 # Wednesday:
 10am-2pm: Free food at Dangoor Plaza if you vote! (for anyone, for any position)
@@ -41,7 +41,7 @@ Preparing my M3R Presentation
 ```
 Join me when you can!
 
-## Why Ameena? <a name='competent'></a>
+## Why Ameena? <a name="competent"></a>
 In December '21, I became Deputy Editor at Felix, and am Sam's right hand person. I have been involved with Felix for 3 years, and contribute mainly to the [News](https://felixonline.co.uk/issue/1792/news/strike-action-continues-for-ucu-members) and Puzzles sections. 
 
 Beyond written contributions, I liaise weekly with Section Editors, Illustrators, Copy Editors, and committee members. I have 3 years' experience of using Adobe InDesign (software we use to lay out weekly Felix Issues) and have been present to witness the publishing process of over 20 issues of Felix this year. 
@@ -53,7 +53,7 @@ Opinion warning of why me: I think I'm pretty competent and well-informed about 
 ## Transparency Statement: <a name="transparency"></a>
 As a candidate for Felix Editor (or Editor-in-Chief as we call it down in West Basement), I am placed in a position of trust - trust that I will take an unbiased position on contentious issues, and accurately relay the facts of the matter. To do this, I must be open and accountable to all students, and disclose any and all potential conflicts of interest.
 
-However, I am actively involved in many things alongside my BEng in Joint Mathematics and Computer Science, so if you are aware of any omitted conflicts, please [email me](mailto:ameena.hassan18@imperial.ac.uk?subject=[Summer Elections '22]%20You%20missed%20a%20conflict%20of%20interest%21) immediately.
+However, I am actively involved in many things alongside my BEng in Joint Mathematics and Computer Science, so if you are aware of any omitted conflicts, please [email me](mailto:ameena.hassan18@imperial.ac.uk?subject=[Summer%20Elections%2027+22]%20You%20missed%20a%20conflict%20of%20interest%21) immediately.
 
 - 2022 ICU Outstanding Service and Union Colours Awardee
 - 21/22 (Elected Society Roles): Mathematics Society: Social Events Officer, Origami Society: Secretary
@@ -82,11 +82,11 @@ My goals as Editor:
 - Grow the Felix community
     - A big boost in social media use and regular workshops for contributors will restore the Felix society to its 2010s glory
 
-*If you have any questions, [email me](mailto:ameena.hassan18@imperial.ac.uk?subject=[Summer Elections '22]%20Will%20you%20be%20a%20good%20Felix%20Editor%3F) at ah1018@ic.ac.uk.*
+*If you have any questions, [email me](mailto:ameena.hassan18@imperial.ac.uk?subject=[Summer%20Elections%2027+22]%20Will%20you%20be%20a%20good%20Felix%20Editor%3F) at ah1018@ic.ac.uk.*
 
 ### Acknowledgements: <a name="acknow"></a>
 The Felix Community $\bigcup$ friends and family, for their continued support and encouragement. The full list is too numerous to list, so I shall give special thanks to Sam Lovatt (current Felix Editor) and Calum Drysdale (19/20 Felix Editor) for their support.
 
-My official seconder: [Jamie John](mailto:jamie.john19@imperial.ac.uk?subject=[Summer Elections '22]%20Why%20should%20I%20vote%20for%20Ameena%3F), Chief Science Section Editor, Felix
+My official seconder: [Jamie John](mailto:jamie.john19@imperial.ac.uk?subject=[Summer%20Elections%2027+22]%20Why%20should%20I%20vote%20for%20Ameena%3F), Chief Science Section Editor, Felix
 
 Website: I used GitHub Pages to host this website, and Jekyll, HTML, and CSS to build this website.
