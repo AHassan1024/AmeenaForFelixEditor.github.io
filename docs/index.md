@@ -10,7 +10,7 @@ You can [vote](https://vote.union.ic.ac.uk/elections.php) from 2pm onwards on 14
 6. [Acknowledgements](#acknow)
 
 ## Who is Ameena? <a name="aboutMe"></a>
-I am a Joint Mathematics and Computer Science (JMC) undergraduate student at Imperial. I started my degree in 2018 (in the pre-Covid times) as an international student, took a gap year in 2019/20 and got involved in Felix as Puzzles Editor, became a British citizen, and am now looking forward to graduating in October. I have lived in (order of time spent): London, Singapore, Japan, Karachi, and Dubai. 
+I am a Joint Mathematics and Computer Science (JMC) undergraduate student at Imperial. I started my degree in 2018 (in the pre-Covid times) as an international student, took a gap year in 2019/20 and got involved in Felix as Puzzles Editor, became a British citizen, and am now looking forward to graduating in October. I have lived in (order of time spent): London, Singapore, Toyko, Karachi, and Dubai. 
 
 ## What I'm doing this week: <a name="thisWeek"></a>
 
@@ -62,25 +62,24 @@ However, I am actively involved in many things alongside my BEng in Joint Mathem
 - 21/22 (Other Society Memberships): Computing, Felix, IQ (Imperial College LGBT+)
 - Jul - Aug 22: UROP in Faculty of Medicine, National Heart & Lung Institute
 - 21/22: 
-  -  Founder of JMC Women and Non-Binaries Weekly Lunch, 
-  -  Student Member of the Institute of Mathematics and its Applications
-- Religious: was raised a Muslim
+  >  Founder of JMC Women and Non-Binaries Weekly Lunch, 
+  >  Student Member of the Institute of Mathematics and its Applications
 
-Additionally, I commit to the Elections Declaration and rules of the Election.
+**Additionally, I commit to the Elections Declaration and rules of the Election.**
 
 ## Manifesto <a name="manifesto"></a>
 For reference, also available to read when voting:
 Hi! I’m Ameena, and I’m running to be your next Felix Editor. I have been involved in Felix for three years; as puzzles editor, chief copyeditor, and deputy editor this year. I also contribute to the News section, which is a key responsibility of the Editor. I already have a good rapport with current and incoming section editors, and want to see the paper fully shake off the after effects of the pandemic.
 
 My goals as Editor:
-- extending distribution network
-    - Conducting a distribution audit at non-South Kensington Campus and accommodation areas to accurately assess demand
+- Extending distribution network
+    > Conducting a distribution audit at non-South Kensington Campus and accommodation areas to accurately assess demand
 - Regular weekly uploads of the paper
-    - To the Felix website, every Thursday, before the paper is distributed
-- Keeping the union and college accountable
-    - Keeping to the Felix pledge of fair reporting without bias, and ensuring Comment contributions are better balanced
+    > To the Felix website, every Thursday, before the paper is distributed
+- Keeping the Union and College accountable
+    > Keeping to the Felix pledge of fair reporting without bias, and ensuring Comment contributions are better balanced
 - Grow the Felix community
-    - A big boost in social media use and regular workshops for contributors will restore the Felix society to its 2010s glory
+    > A big boost in social media use and regular workshops for contributors will restore the Felix society to its 2010s glory
 
 *If you have any questions, [email me](mailto:ameena.hassan18@imperial.ac.uk?subject=[Summer%20Elections%2027+22]%20Will%20you%20be%20a%20good%20Felix%20Editor%3F) at ah1018@ic.ac.uk.*
 
