@@ -1,5 +1,5 @@
 ## Ameena Hassan, Felix Editor 22/23
-
+![](VoteWhiteSE22.png)
 You can [vote](https://vote.union.ic.ac.uk/elections.php) from 2pm onwards on 14th June 2022.
 
 1. [Who is Ameena?](#aboutMe)
